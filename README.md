@@ -11,7 +11,16 @@
 
 ## Skills
 
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![C](https://img.shields.io/badge/language-C-00599C?style=for-the-badge&logo=c) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) | Terraform | Kubernetes | CI/CD | Networking | Monitoring | Shell scripting 
+![C](https://img.shields.io/badge/language-C-00599C?style=for-the-badge&logo=c) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI--CD-4BC51D?style=for-the-badge&logo=githubactions&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-F47E21?style=for-the-badge&logo=prometheus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
