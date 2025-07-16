@@ -11,7 +11,7 @@
 
 ## Skills
 
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | [C](https://img.shields.io/badge/language-C-00599C?style=for-the-badge&logo=c) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) | Terraform | Kubernetes | CI/CD | Networking | Monitoring | Shell scripting 
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![C](https://img.shields.io/badge/language-C-00599C?style=for-the-badge&logo=c) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) | Terraform | Kubernetes | CI/CD | Networking | Monitoring | Shell scripting 
 
 ---
 
