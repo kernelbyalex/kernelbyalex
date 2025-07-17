@@ -38,7 +38,7 @@ I’m a civil engineering student with a strong passion for software, Linux syst
 
 ## Let’s connect!
 
-- GitHub: [kere_alex](https://github.com/kere_alex)  
+- Instagram: [kere_alex](https://www.instagram.com/kere_alex/)  
 - Reddit: [u/kere_alex](https://www.reddit.com/user/kere_alex)  
 - LinkedIn: [keree](https://linkedin.com/in/keree)  
   
