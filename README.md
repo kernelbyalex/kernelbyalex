@@ -11,7 +11,6 @@
 
 ## Skills
 
-![C](https://img.shields.io/badge/language-C-00599C?style=for-the-badge&logo=c) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
