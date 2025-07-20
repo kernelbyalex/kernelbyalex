@@ -4,7 +4,7 @@
 - 🌱 Focused on mastering AWS, Docker, Infrastructure as Code (Terraform), CI/CD, and Kubernetes  
 - 💻 Passionate about Linux, especially Arch Linux, system programming in C, and creating efficient workflows  
 - ⚙️ Experienced in configuring minimalist window managers and optimizing my Linux environment for productivity  
-- 📫 How to reach me: [keralex21@gmail.com](mailto:keralex21@gmail.com)  
+- 📫 How to reach me: [kernelbyalex@gmail.com](mailto:keralex21@gmail.com)  
 - ⚡ Fun fact: I’ve successfully lost over 17kg through disciplined habits and love applying the same mindset to coding and learning  
 
 ---
