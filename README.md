@@ -26,7 +26,7 @@
 ## Projects
 
 - [dwm](https://github.com/unikeree/dwm) – My personalized dwm setup tailored for a fast and minimalist Linux experience  
- 
+- [first-devops-project](https://github.com/kernelbyalex/first-devops-project) My first full DevOps project 🚀 — Terraform + Docker + GitHub Actions + Bastion Host on AWS, with secure deployment of a containerized app.
 ---
 
 ## About me
